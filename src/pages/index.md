@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: A proofreader can save you time
-image: /img/home-jumbotron.jpg
+image: /img/just-so-i’m-clear.png
 heading: And time is money!
 subheading: Let me help you do that!
 mainpitch:
